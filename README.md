@@ -13,8 +13,3 @@
 |   SPEED    |  float   |  8   |   GPS速度  |
 |   DIRECTION    |  float   |  8   |   GPS方向  |
 |   CAR_STAT    |  int   |  4   |   载客状态  |
-
-**由于数据集文件过大，故给出百度网盘下载地址**
-
-链接：< https://pan.baidu.com/s/1XQam6Zg-zwYGWkJBAcp-OA >
-提取码：mrao
